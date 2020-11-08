@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3785#comment
+status: Unchecked
+feedback:
+  message: Access denied, try to <a href="">re-login</a>
+  time: Sun, 08 Nov 2020 13:45:08 UTC
+record: -1
